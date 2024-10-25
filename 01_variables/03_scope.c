@@ -7,7 +7,7 @@ int main()
   int local = 2;
   {
     int local = 3;
-      printf("%d \n", local);
+    printf("%d \n", local);
   }
   return 0;
 }

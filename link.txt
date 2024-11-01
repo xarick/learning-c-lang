@@ -1,1 +1,2 @@
 https://www.geeksforgeeks.org/c-programming-language/?ref=shm
+https://www.tutorialspoint.com/cprogramming/index.htm

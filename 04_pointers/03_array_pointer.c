@@ -19,7 +19,7 @@ int main()
         ptr++;
     }
 
-     int myArray[5] = {1, 2, 3, 4, 5};
+    int myArray[5] = {1, 2, 3, 4, 5};
     printArray(myArray, 5);
 
     return 0;

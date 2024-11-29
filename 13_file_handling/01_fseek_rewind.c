@@ -5,6 +5,12 @@
 
 // putchar() faqat bitta belgini ekranga chiqaradi
 
+// fgetc(): Fayldan bitta belgi o'qish uchun ishlatiladi.
+// fputc(): Faylga bitta belgi yozish uchun ishlatiladi.
+// fgets(): Fayldan bir satrni o'qish uchun ishlatiladi.
+// fputs(): Faylga butun satrni yozish uchun ishlatiladi.
+// fprintf(): Faylga formatlangan ma'lumotlarni yozish uchun ishlatiladi.
+
 #include <stdio.h>
 
 int main() {

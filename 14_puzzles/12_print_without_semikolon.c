@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main() {
-    if (printf("Geeks for Geeks")) {}  // Semikolon ishlatilmagan
+    if (printf("Hello")) {}  // Semikolon ishlatilmagan
     return 0;
 }

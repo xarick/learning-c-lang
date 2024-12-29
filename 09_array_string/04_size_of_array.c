@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // XATO
-// Funksiyaga massiv uzatilganda, massiv avtomatik ravishda ko‘rsatkichga (pointer) aylantirilad
+// Funksiyaga massiv uzatilganda, massiv avtomatik ravishda ko‘rsatkichga (pointer) aylantiriladi
 // void funksiya(int massiv[]) {
 //     printf("Massiv hajmi: %lu\n", sizeof(massiv));
 // }
